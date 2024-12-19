@@ -25,7 +25,7 @@ Don't feel like reading? Check out our [full API documentation](https://develope
 Follow these steps to quickly get started with the [Prove API](https://developer.prove.com/):
 
 1. [Sign up](https://portal.prove.com/en/signup) with Prove to get your API credentials
-2. Fork the collection from [Prove's public workspace](https://www.postman.com/prove-eng/prove-link-api-testing/collection/93r30p4/prove-api?action=share&source=collection_link&creator=38260294) in Postman
+2. Fork the collection from [Prove's public workspace](https://www.postman.com/prove-eng/prove-link-api-testing/collection/93r30p4/prove-api?action=share&creator=38260294&active-environment=38260294-e94fa5a5-7c02-49ca-957d-076be840aaf4) in Postman
 3. Set up your environment variables as described in the [Configuration](#configuration) section
 
 ### Prerequisites
