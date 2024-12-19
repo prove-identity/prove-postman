@@ -6,8 +6,6 @@ Welcome to the Postman Collections Guide for Prove API! If you're looking to get
 
 For more detailed information about the Prove API, visit [the Prove Developer Documentation](https://developer.prove.com/).
 
-Don't feel like reading? Check out our [full API documentation](https://developer.prove.com/docs).
-
 ## Table of contents
 
 - [Getting started](#getting-started)
