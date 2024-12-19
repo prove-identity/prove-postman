@@ -2,6 +2,8 @@
 
 Welcome to the Postman Collections Guide for Prove API! If you're looking to get started with the Prove API quickly without writing additional code, this is the perfect place to begin.
 
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/38260294-894dfff1-97ba-4f75-bd7f-ecaad30fcd18?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D38260294-894dfff1-97ba-4f75-bd7f-ecaad30fcd18%26entityType%3Dcollection%26workspaceId%3D2b2087c9-2e13-49f6-b76f-797abbe1b52c)
+
 For more detailed information about the Prove API, visit [the Prove Developer Documentation](https://developer.prove.com/).
 
 Don't feel like reading? Check out our [full API documentation](https://developer.prove.com/docs).
